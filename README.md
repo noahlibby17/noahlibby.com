@@ -1,4 +1,4 @@
 Welcome to noahlibby.com
 =====================
 
-A website by Noah for me and others.
+A website by Noah for Noah and others.
