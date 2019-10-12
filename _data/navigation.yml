@@ -3,7 +3,7 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: http://noahlibby.com/about
+    url: /about
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -11,7 +11,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Music"
-    url: http://noahlibby.com/music
+    url: /music
   - title: "Photography"
-    url: http://noahlibby.com/photography
-     
+    url: /photography
