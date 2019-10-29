@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: collection
 title: Photography
 permalink: /photography/
 author_profile: true
 ---
 
-Photography Page
+Website construction in progress.
