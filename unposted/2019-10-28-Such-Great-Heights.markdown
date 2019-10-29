@@ -21,7 +21,7 @@ All of the songs I write, I write because I need them. I find myself re-listenin
 
 I turned in my thesis and graduated college, spent an unforgettable summer with a group of guys that have shown me incomparable love for the longest time, and then I drove a fully-packed minivan towards Minnesota with nothing but an apartment and an interview waiting for me there.
 
-# And it doesn't feel real. Not much is feeling real.
+#And it doesn't feel real. Not much is feeling real.
 
 #Having what truly is *free* time for the first time ever has been a liberating and dissonant slap to my soul.
 
