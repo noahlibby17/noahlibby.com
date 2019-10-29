@@ -1,9 +1,10 @@
 ---
 layout: single
 title: About
-permalink: /about/
 header:
   image: /assets/images/boboli.png
+  og_image: /assets/images/boboli.png
+permalink: /about/
 author_profile: true
 ---
 
