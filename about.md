@@ -3,7 +3,7 @@ layout: single
 title: About
 header:
   image: /assets/images/boboli.png
-  og_image: /assets/images/boboli.png
+  caption: "Photo credit: Noah Libby"
 permalink: /about/
 author_profile: true
 ---
