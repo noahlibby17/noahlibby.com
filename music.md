@@ -5,8 +5,5 @@ permalink: /music/
 author_profile: true
 ---
 
-{% for page in site.pages %}
-  {% if page.url == '/music/allido' %}
-[{{ page.title }}]({{ page.url }})
-  {% endif %}
-{% endfor %}
+#January 7, 2020
+[All I Do](/music/allido)
