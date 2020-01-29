@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Photography
+title: Music
 permalink: /music/
 author_profile: true
 ---
