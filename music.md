@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: musicposts
 title: Music
 permalink: /music/
 author_profile: true
