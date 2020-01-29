@@ -1,0 +1,9 @@
+---
+layout: single
+title:  "Dylan Owen - All I Do (Cover)"
+date:   2015-01-15 20:16:00 -0500
+categories: music
+---
+
+
+<iframe width="1220" height="686" src="https://www.youtube.com/embed/sWTbCrOsKDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
