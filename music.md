@@ -5,4 +5,4 @@ permalink: /music/
 author_profile: true
 ---
 
-Music Page
+Website construction in progress.
