@@ -1,5 +1,5 @@
 ---
-layout: storiesposts
+layout: posts
 title: Stories
 permalink: /stories/
 author_profile: true
