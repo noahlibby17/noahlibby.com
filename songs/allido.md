@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: All I Do
+title: Dylan Owen - All I Do (Cover)
 permalink: /music/allido
 author_profile: true
 ---

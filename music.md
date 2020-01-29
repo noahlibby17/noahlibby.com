@@ -5,5 +5,6 @@ permalink: /music/
 author_profile: true
 ---
 
-#January 7, 2020
-[All I Do](/music/allido)
+[Dylan Owen - All I Do (Cover)](/music/allido)  
+
+[Bright Eyes - Lua (Cover)](/music/lua)
