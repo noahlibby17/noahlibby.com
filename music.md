@@ -5,4 +5,8 @@ permalink: /music/
 author_profile: true
 ---
 
-Website construction in progress.
+{% for page in site.pages %}
+  {% if page.url == '/music/allido' %}
+[{{ page.title }}]({{ page.url }})
+  {% endif %}
+{% endfor %}
